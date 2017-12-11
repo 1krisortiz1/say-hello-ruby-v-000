@@ -1,3 +1,5 @@
 def say_hello(name)
-  puts "Hello #{Gabriela}!"
-end# Build your say_hello method here
+  puts "Hello #{name}!"
+end# Build your say_hello m
+
+say_hello("Gabriela")
